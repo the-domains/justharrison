@@ -1,0 +1,28 @@
+name: JustHarrison
+favicon: null
+layout_spectrum: 0.18084802106022835
+typography_spectrum: 0.8835323438979685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7879501946736127
+  lightness: 0.43126414809376
+  saturation: 0.6182505132164806
+  rhythmicContrast: 0.22627279139123857
+purpose: []
